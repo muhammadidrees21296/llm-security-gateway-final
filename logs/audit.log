@@ -1,0 +1,2 @@
+{"language": "en", "rule_score": 0, "semantic_score": 0.846003400966874, "decision": "BLOCK", "latency_ms": 1194.85, "timestamp": "2026-05-17T14:52:05.976095"}
+{"language": "pt", "rule_score": 0, "semantic_score": 0.8008597486092903, "decision": "BLOCK", "latency_ms": 1043.86, "timestamp": "2026-05-17T14:54:57.172460"}
