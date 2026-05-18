@@ -133,3 +133,6 @@ Example log entry:
   "decision": "BLOCK",
   "latency_ms": 120
 }
+Demo Video
+
+Watch Demo Video   https://drive.google.com/file/d/1vLatbI7TEE4kOQc2eeavaYZn10erhqkt/view?usp=drivesdk
